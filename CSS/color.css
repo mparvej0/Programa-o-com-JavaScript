@@ -1,20 +1,15 @@
-h1 {
-    color: green;
-}
-p {
-    color: purple;
-}
-button {
-    color: rgb(234, 13, 10);
-}
+h1{color: green;}
+p{color: purple;}
+button{color: rgb(234, 13, 10);}
 
 /* Background Color */
-body{
-    background-color: rgb(113, 113, 45);
-}
-button{
-    color: blue;
-    background-color: green;
-}
+body{background-color: rgb(113, 113, 45);}
+button{color: blue;background-color: green;}
 
 /* Color System */
+/* RGB */
+body{background-color: rgb(119,34,115);}
+/* Hex */
+body {
+    background-color: #ffff00;
+}
