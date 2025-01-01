@@ -1,0 +1,22 @@
+/* Universal Selector */
+* {
+    color: blue;
+}
+/* Element Selector */
+h1 {
+    color: green;
+}
+/* id Selector */
+#headingONe {
+    color: yellow;
+}
+#headingTwo {
+    color: chocolate;
+}
+#headingThree {
+    color: magenta;
+}
+/* Class Selector */
+.myClass {
+    color: maroon;
+}
