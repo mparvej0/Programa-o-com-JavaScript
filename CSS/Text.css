@@ -1,9 +1,18 @@
+/* text-align */
 h1 {
-    text-align: right; /*OR End*/
+    text-align: left; /*OR Start*/
+    text-align: center;
 }
 p {
     text-align: center;
 }
 h2 {
-    text-align: left; /*OR Start*/
+    text-align: right
+    ; /*OR End*/
+}
+/* tex-decoration */
+h1 {
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
 }
