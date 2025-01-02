@@ -1,0 +1,9 @@
+h1 {
+    text-align: right; /*OR End*/
+}
+p {
+    text-align: center;
+}
+h2 {
+    text-align: left; /*OR Start*/
+}
