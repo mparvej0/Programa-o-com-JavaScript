@@ -29,3 +29,26 @@ do {
 } while (x <= 5);
 
 //for-of Loop
+let str = "IITM"
+for(let i of str) {
+    console.log("i =", i);
+}
+
+let str1 = "JavaScript";
+let size = 0;
+for (let val of str1) {
+    console.log("i =", val);
+    size++;
+}
+console.log("Starting size =", size);
+
+//for-in Loop
+let student = {
+    name: "Kashaf Ali",
+    age: 20,
+    cgpa: 8.5,
+    isPass: true
+};
+for(let key in student) {
+    console.log("key =", key, "value =", student[key]);
+}
