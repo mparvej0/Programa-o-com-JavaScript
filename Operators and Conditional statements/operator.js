@@ -51,6 +51,5 @@ console.log("k && l", k && l);
 console.log("k || l", k || l);
 console.log("!(k<l) =", !(k < l));
 
-
-
+//Ternary Operators
 
