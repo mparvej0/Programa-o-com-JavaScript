@@ -28,3 +28,10 @@ if(mode1 == "dark") {
 console.log(color1);
 
 //else-if Statement
+if(age < 18) {
+    console.log("junior");
+} else if (age > 60) {
+    console.log("sinior");
+} else {
+    console.log("middile");
+}
