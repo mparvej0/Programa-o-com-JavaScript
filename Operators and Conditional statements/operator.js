@@ -52,4 +52,6 @@ console.log("k || l", k || l);
 console.log("!(k<l) =", !(k < l));
 
 //Ternary Operators
-
+let age = 22;
+let result = age >= 18 ? "Adult" : "NOt Adult";
+console.log(result);
