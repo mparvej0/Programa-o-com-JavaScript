@@ -22,7 +22,11 @@ const countVow = (str) => {
 }
 
 // Qs3. For a given array of numbers, print the square of each value using the forEach loop.
-
+let nums = [76, 52, 39];
+let calcsquare = ((num) => {
+    console.log(num * num);
+});
+nums.forEach(calcsquare);
 // Qs4. We are given array of marks of students. Filter our of the marks of students that scored 90+.
 
 // Qs5. Take a number n as input from user. Create an array   from 1 to n.
